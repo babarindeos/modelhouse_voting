@@ -1,6 +1,6 @@
 
 <?php
-    require_once("../baseurl.php");
+    //require_once("../baseurl.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">

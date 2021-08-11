@@ -3,7 +3,7 @@
 
   //$absolute_path =  realpath("../../core/wp_config.php");
   // Base Url
-  require_once("../baseurl.php");
+  require_once("baseurl.php");
 
   // Authorization acces
   require_once("../includes/is_login_auth.php");
